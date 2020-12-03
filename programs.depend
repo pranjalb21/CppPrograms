@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599933628 source:f:\c++\programs\main.cpp
+	<iostream>
+
+1600064641 source:f:\c++\programs\union.cpp
+	<iostream>
+
